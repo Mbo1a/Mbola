@@ -1,0 +1,9 @@
+commandLinux
+sudo apt-get install flat
+sudo apt install npm
+
+processus
+ps aux | grep -i apt
+
+
+sudo apt install celluloid
